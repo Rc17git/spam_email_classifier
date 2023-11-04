@@ -21,7 +21,7 @@ To get started with the Spam Email Classification project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```
-    git clone https://github.com/Rc17git/Machine-Learning-Projects/tree/spam-email-classifier
+    git clone https://github.com/Rc17git/spam_email_classifier.git
     cd Spam Email Classifier
     ```
 
@@ -34,7 +34,7 @@ To get started with the Spam Email Classification project, follow these steps:
 3. Open the Jupyter Notebook:
 
     ```
-    jupyter notebook spam_email.ipynb
+    jupyter notebook spam-email.ipynb
     ```
 
 4. Run the cells in the notebook to train and evaluate the machine learning model.
